@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is CJ,and I'm a design a student.
+Like reading ang listening to music in my spair time.
 <!--
 **Olivechensir/Olivechensir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
